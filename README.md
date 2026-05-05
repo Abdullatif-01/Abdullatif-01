@@ -2,6 +2,7 @@
 
 ## About Me  
 I am Abdullatif Traisi, a Cybersecurity student with a strong passion for ethical hacking, networking, and software development.  
+
 I have developed a solid foundation in Python programming and networking fundamentals, and I continuously enhance my skills through hands-on projects and self-directed learning.
 
 ## What I Do  
